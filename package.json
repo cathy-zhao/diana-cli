@@ -1,7 +1,7 @@
 {
   "name": "diana-cli",
   "version": "1.0.0",
-  "description": "第一个前端脚手架",
+  "description": "脚手架",
   "main": "index.js",
   "bin": {
     "diana": "./bin/www"
@@ -16,7 +16,9 @@
   },
   "keywords": [
     "node",
-    "react"
+    "react",
+    "js",
+    "babel"
   ],
   "author": "cathy",
   "license": "ISC",
